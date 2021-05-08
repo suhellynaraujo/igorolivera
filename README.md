@@ -21,16 +21,11 @@ Me chamo Igor, e sou estudante de Tecnologia pelo órgão da FAETECEAD, espero q
 <tr>
   <td colspan="2">
     <a href="https://github.com/igorolivera">
+       <img align="left" style="padding-right: 12px" alt="JAVA" width="32px" src="https://i.imgur.com/2jIlB7V.png" />
       <img align="left" style="padding-right: 12px" alt="HTML" width="32px" src="https://user-images.githubusercontent.com/65747791/112216423-3f9bdd00-8c00-11eb-9189-54ebc6d834dd.png" />
       <img align="left" style="padding-right: 12px" alt="CSS" width="32px" src="https://user-images.githubusercontent.com/65747791/112216182-f77cba80-8bff-11eb-8c8b-f19670fb3708.png" />
       <img align="left" style="padding-right: 12px" alt="Visual COde" width="32px" src="https://secrethub.io/img/vs-code.svg" />
        <img align="left" style="padding-right: 12px" alt="GIT" width="32px" src="https://user-images.githubusercontent.com/65747791/112218487-85f23b80-8c02-11eb-910b-9e92f05c9630.png" />
-      <img align="left" style="padding-right: 12px" alt="JAVA" width="32px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
-      <img align="left" style="padding-right: 12px" alt="C" width="32px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" />
-     <img align="left" style="padding-right: 12px" alt="Python" width="32px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
-     <img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" />
-     <img align="left" style="padding-right: 12px" alt="SQL" width="32px" src="https://www.lansweeper.com/wp-content/uploads/2018/05/ASSET-SOFTWARE-SQL-DATABASE.png" /> 
-     <img align="left" style="padding-right: 12px" alt="PHP" width="32px" src="https://user-images.githubusercontent.com/65747791/112216711-96091b80-8c00-11eb-88dd-d4c0913a7f50.png" />
   </a>
   </td>
 </tr>
@@ -58,8 +53,6 @@ Me chamo Igor, e sou estudante de Tecnologia pelo órgão da FAETECEAD, espero q
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:igordeoliveirasilva2020@gmail.com)
 
 
-<img align="right" style="padding-right: 128px" alt="Pingu" width="128px" src="https://sempreupdate.com.br/wp-content/uploads/2019/10/tux-linux-gif.gif">
-
 <details>
 <summary>
   Mais coisas sobre mim <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
@@ -67,16 +60,13 @@ Me chamo Igor, e sou estudante de Tecnologia pelo órgão da FAETECEAD, espero q
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
-
-#### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
-
+...
 
 
 </details>
 <br/>
+
+<img align="right" style="padding-right: 128px" alt="Pingu" width="128px" src="https://sempreupdate.com.br/wp-content/uploads/2019/10/tux-linux-gif.gif">
 
 ### Minhas inspirações <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
 
