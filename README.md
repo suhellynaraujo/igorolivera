@@ -22,10 +22,11 @@ Me chamo Igor, e sou estudante de Tecnologia pelo órgão da FAETECEAD, espero q
   <td colspan="2">
     <a href="https://github.com/igorolivera">
        <img align="left" style="padding-right: 12px" alt="JAVA" width="32px" src="https://i.imgur.com/2jIlB7V.png" />
+       <img align="left" style="padding-right: 12px" alt="JAVA" width="32px" src="https://i.imgur.com/22qjpXs.png" />
       <img align="left" style="padding-right: 12px" alt="HTML" width="32px" src="https://user-images.githubusercontent.com/65747791/112216423-3f9bdd00-8c00-11eb-9189-54ebc6d834dd.png" />
       <img align="left" style="padding-right: 12px" alt="CSS" width="32px" src="https://user-images.githubusercontent.com/65747791/112216182-f77cba80-8bff-11eb-8c8b-f19670fb3708.png" />
       <img align="left" style="padding-right: 12px" alt="Visual COde" width="32px" src="https://secrethub.io/img/vs-code.svg" />
-       <img align="left" style="padding-right: 12px" alt="GIT" width="32px" src="https://user-images.githubusercontent.com/65747791/112218487-85f23b80-8c02-11eb-910b-9e92f05c9630.png" />
+      <img align="left" style="padding-right: 12px" alt="GIT" width="32px" src="https://user-images.githubusercontent.com/65747791/112218487-85f23b80-8c02-11eb-910b-9e92f05c9630.png" />
   </a>
   </td>
 </tr>
@@ -52,7 +53,7 @@ Me chamo Igor, e sou estudante de Tecnologia pelo órgão da FAETECEAD, espero q
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5521997809640text=Olá!)](https://api.whatsapp.com/send?phone=+5521997809640text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:igordeoliveirasilva2020@gmail.com)
 
-
+https://i.imgur.com/22qjpXs.png
 <details>
 <summary>
   Mais coisas sobre mim <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
