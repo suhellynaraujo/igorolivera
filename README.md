@@ -21,7 +21,7 @@ Me chamo Igor, e sou estudante de Tecnologia pelo órgão da FAETECEAD, espero q
 <tr>
   <td colspan="2">
     <a href="https://github.com/igorolivera">
-       <img align="left" style="padding-right: 12px" alt="JAVA" width="32px" src="https://i.imgur.com/2jIlB7V.png" />
+       <img align="left" style="padding-right: 12px" alt="JAVA" width="32px" src="https://i.imgur.com/ZgyxlKm.png" />
        <img align="left" style="padding-right: 12px" alt="JAVA" width="32px" src="https://i.imgur.com/22qjpXs.png" />
       <img align="left" style="padding-right: 12px" alt="HTML" width="32px" src="https://user-images.githubusercontent.com/65747791/112216423-3f9bdd00-8c00-11eb-9189-54ebc6d834dd.png" />
       <img align="left" style="padding-right: 12px" alt="CSS" width="32px" src="https://user-images.githubusercontent.com/65747791/112216182-f77cba80-8bff-11eb-8c8b-f19670fb3708.png" />
