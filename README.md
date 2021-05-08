@@ -1,15 +1,16 @@
 ## Olá<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-```
+
 Me chamo Igor, e sou estudante de Tecnologia pelo órgão da FAETECEAD, espero que alguns de meus projetos, possa ser de grande valia e ajuda para vocês. ^^
-```
+
 ----
-### Spotify Playing 
+<!--
+
+### Spotify Playing
 
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-----
+-->
 
 
 
