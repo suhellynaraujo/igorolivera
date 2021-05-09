@@ -57,9 +57,7 @@ Me chamo Igor, e sou estudante de Tecnologia pelo órgão da FAETECEAD, espero q
 
 <details>
 <summary>
-
-
-  Mais coisas sobre mim <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+Mais coisas sobre mim <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </summary>
 
 
@@ -71,6 +69,7 @@ Me chamo Igor, e sou estudante de Tecnologia pelo órgão da FAETECEAD, espero q
 <br/>
 
 <img align="right" style="padding-right: 128px" alt="Pingu" width="128px" src="https://sempreupdate.com.br/wp-content/uploads/2019/10/tux-linux-gif.gif">
+
 ### Minhas inspirações <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
 
 •[🐉@oliveira-andre](https://github.com/oliveira-andre)  [🎸@rafaballerini](https://github.com/rafaballerini)  \o/
@@ -79,7 +78,7 @@ Me chamo Igor, e sou estudante de Tecnologia pelo órgão da FAETECEAD, espero q
 
 
 
----
+<hr>
 
 
 
