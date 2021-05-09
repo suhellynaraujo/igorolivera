@@ -68,15 +68,12 @@ Mais coisas sobre mim <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg
 </details>
 <br/>
 
+<!--
 <img align="right" style="padding-right: 128px" alt="Pingu" width="128px" src="https://sempreupdate.com.br/wp-content/uploads/2019/10/tux-linux-gif.gif">
-
+-->
 ### Minhas inspirações <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
 
 •[🐉@oliveira-andre](https://github.com/oliveira-andre)  [🎸@rafaballerini](https://github.com/rafaballerini)  \o/
-
-
-
-
 
 <hr>
 
