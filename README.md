@@ -53,7 +53,9 @@ Me chamo Igor, e sou estudante de Tecnologia pelo órgão da FAETECEAD, espero q
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5521997809640text=Olá!)](https://api.whatsapp.com/send?phone=+5521997809640text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:igordeoliveirasilva2020@gmail.com)
 
-https://i.imgur.com/22qjpXs.png
+<img align="right" style="padding-right: 128px" alt="Pingu" width="128px" src="https://sempreupdate.com.br/wp-content/uploads/2019/10/tux-linux-gif.gif">
+
+
 <details>
 <summary>
   Mais coisas sobre mim <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
@@ -67,7 +69,6 @@ https://i.imgur.com/22qjpXs.png
 </details>
 <br/>
 
-<img align="right" style="padding-right: 128px" alt="Pingu" width="128px" src="https://sempreupdate.com.br/wp-content/uploads/2019/10/tux-linux-gif.gif">
 
 ### Minhas inspirações <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
 
