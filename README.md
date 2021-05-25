@@ -47,8 +47,12 @@ Me chamo Igor, e sou estudante de Tecnologia pelo órgão da FAETECEAD, espero q
 
 ## Meus Contatos 
 
+<!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=igorolivera.igorolivera)
 [![GitHub igor](https://img.shields.io/github/followers/igorolivera?label=follow&style=social)](https://github.com/igorolivera)
+-->
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-oliveira-84a3b0211/)](https://www.linkedin.com/in/igor-oliveira-84a3b0211/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5521997809640text=Olá!)](https://api.whatsapp.com/send?phone=+5521997809640text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:igordeoliveirasilva2020@gmail.com)
